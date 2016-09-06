@@ -1,0 +1,9 @@
+		
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+	clrscr();  // clear the screen
+	cout<<"Hello Compiler, I am C++";
+	getch();  // output screen hold until user press a key
+}
